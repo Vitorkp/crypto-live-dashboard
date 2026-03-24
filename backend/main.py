@@ -4,10 +4,10 @@ import httpx
 
 app = FastAPI()
 
-# Isso aqui é MUITO importante para o React conseguir conversar com o Python depois
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # Permite que seu frontend acesse o backend
+    allow_origins=["*"], 
     allow_methods=["*"],
     allow_headers=["*"],
 )
