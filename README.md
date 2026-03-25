@@ -40,7 +40,7 @@ Os dados são obtidos através da API da CoinGecko.
 - JavaScript
 
 ## 📈 Melhorias Futuras!
- Adicionarei ao meu dashboard de criptomoedas uma IA para detectar tendências e prever preços, O sistema não só mostraria dados, mas também analisaria o mercado.
+ Adicionarei ao meu dashboard de criptomoedas uma IA para detectar tendências e prever preços, o sistema não só mostraria dados, mas também analisaria o mercado.
 
 - Atualização automática em tempo real
 - Detecção de tendências
